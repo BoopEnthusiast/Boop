@@ -2,4 +2,4 @@
 baseURL = "https://boop.pages.dev"
 languageCode = "en-US"
 title = "Boop"
-theme = "ananke"
+theme = "ananke" 
