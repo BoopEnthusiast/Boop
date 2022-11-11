@@ -8,5 +8,8 @@
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "moments"]
-	path = hugo-theme-moments
+	path = moments
+	url = https://github.com/FarseaSH/hugo-theme-moments
+[submodule "themes/moments"]
+	path = themes/moments
 	url = https://github.com/FarseaSH/hugo-theme-moments
