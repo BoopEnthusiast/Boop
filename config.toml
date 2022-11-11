@@ -1,5 +1,17 @@
 # Site settings
 baseURL = "https://boop.pages.dev"
-languageCode = "en-US"
-title = "Boop"
-theme = "ananke" 
+# languageCode = "en-US"
+# title = "Boop"
+theme = "moments" 
+# baseURL = "https://farseash.github.io/demo-hugo-theme-moments/"
+
+paginate = 100
+paginatePath = '.'
+
+[params]
+    title = "Boop"
+    signature = "Ai"
+    cover = "https://cdn.xxl.thumbs.canstockphoto.com/cartoon-beta-test-symbol-vector-clip-art_csp15570918.jpg"
+
+    name = "Boop"
+    avatar = "/img/default_avatar.png"
