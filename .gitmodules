@@ -9,7 +9,7 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "moments"]
 	path = moments
-	url = https://github.com/FarseaSH/hugo-theme-moments
+	url = https://github.com/FarseaSH/hugo-theme-moments.git
 [submodule "themes/moments"]
 	path = themes/moments
-	url = https://github.com/FarseaSH/hugo-theme-moments
+	url = https://github.com/FarseaSH/hugo-theme-moments.git
