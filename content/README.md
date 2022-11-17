@@ -15,11 +15,11 @@ The purpose of this README is to help you navigate the site. It should be mostly
 
 ## VERY basics:
 #### Up the top there is the directory you are in
-Click on "Boop" at any point to return to the main page
+Click on "Boop" at any point to return to the main page  
 In the directory if you have entered a folder before entering a post, you can click on the name of the folder to return to it at the top
 #### The date of any post can be seen below the title of the post
 This post's date is on my birthday and not the date of the post. It is also at year zero
 #### To the right of the date you can see the tags of any post
-This post's sole tag is #No tags, which is a tag
-You can click on tags to see all posts with that tag
-When looking at all posts with a tag you can look in the directory and go back to look at all of the tags ever used
+This post's sole tag is #No tags, which is a tag  
+You can click on tags to see all posts with that tag  
+When looking at all posts with a tag you can look in the directory and go back to look at all of the tags ever used  
