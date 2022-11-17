@@ -25,3 +25,5 @@ This post's date is on my birthday and not the date of the post. It is also at y
 This post's sole tag is #No tags, which is a tag  
 You can click on tags to see all posts with that tag  
 When looking at all posts with a tag you can look in the directory and go back to look at all of the tags ever used  
+#### At the bottom of a post there is a Previous/Next Post button
+This is self-explanatory, you don't need me to explain literally everything
