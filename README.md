@@ -10,7 +10,7 @@ Demo is right here [Root's Home](https://rmsubekti.github.io/the-roots-home/)
 Installation
 ---
 
-Hugo Extended Version 
+Hugo Extended Version
 
 ```
 # at the root folder of your site
