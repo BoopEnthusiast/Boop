@@ -10,9 +10,11 @@ My name is Ai Kagami
 
 This is my website
 
+I do have an ABOUTME that details who I am
 
 The purpose of this README is to help you navigate the site. It should be mostly self-explanatory but just in case I will write anything I deem not self-explanatory here.
 
+---
 ## VERY basics:
 #### Up the top there is the directory you are in
 Click on "Boop" at any point to return to the main page  

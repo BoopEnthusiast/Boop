@@ -6,6 +6,7 @@ tags: [No tags]
 
 # If you have not already, please read the README
 
+---
 This is an about me, who I am, etcetera
 
 ### My name is Ai Kagami
@@ -22,6 +23,7 @@ email: onpotis@gmail.com
 
 I am not on many social media applications for a multitude of reasons, which I may rant about in a post but I will not put here.
 
+---
 ### Basic info about me
 Name: Ai Kagami (Kagami is an alias)  
 
