@@ -7,7 +7,7 @@ author = "Boop"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
   
-theme="the-roots-home"
+
 
 #enableGitInfo=true
 enableEmoji= true
