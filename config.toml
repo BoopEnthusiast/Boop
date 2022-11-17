@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Boop'
 theme = 'the-roots-home'
 author = "Boop"
-languageCode = "en"
+
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
   
