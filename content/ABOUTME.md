@@ -26,7 +26,6 @@ I am not on many social media applications for a multitude of reasons, which I m
 ---
 ### Basic info about me
 Name: Ai Kagami (Kagami is an alias)  
-
 Pronouns: She/They (I do not mind if you use she or they)  
 Gender: Agender (lack of gender)  
 Sexuality: Nonya (none of your business)  
