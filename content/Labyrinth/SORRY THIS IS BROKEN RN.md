@@ -4,8 +4,6 @@ date: 2022-1-5T11:23:00
 tags: [No tags]
 ---
 
-#this is broken rn, please return later
-
 This file is full of other files which are full of files within files within files within etcetera. 
 There are specific codes you can do to find a specific file.
 Good luck finding them out! I might give you personally a code, or some will be scattered around my site, hidden with cryptography or the like. Or some might be blaringly obvious, like the konami code.
