@@ -1,5 +1,5 @@
 ---
-title: Index of ~
+title: Boop
 weight: 1
 ---
-I am root.
+Please read the README here first, then dive in

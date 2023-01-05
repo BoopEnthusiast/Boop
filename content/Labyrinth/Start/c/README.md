@@ -1,0 +1,6 @@
+---
+title: "Read Me"
+date: 2023-01-5T10:42:00
+tags: [No tags]
+---
+I don't know kid, I don't think you have the balls to be part of our group, we're not like everyone else, we're special, we're... edgy memelords. You see, kid, you've been raised in what we like to call the "normie-sphere", where the memes are harmless, they're mere comical observations of our daily lifestyles, they take no risks. In our group we take risks everyday, our humor knows no limits, we'll make fun of everyone and everything! The Holocaust, the 9/11 attacks, Harambe... yeah, that's right, we even make jokes about that gorilla who was shot, isn't that insensitive? We don't care, though. We feel no sympathy anymore, our hearts are cold and our souls are dark, there's a void in my body that can only be filled with memes, DARK memes. You know, sometimes I wish I was normal, I wish I could laugh at these normie-tier memes, be an ordinary person for once... But I know that will never happen. My mind has been exposed to so many school shooting jokes and self-deprecation humor that I have become desensitized to plebeian entertainment. Kid, consider carefully if you really want to be one of us, there's too much at stake, once you're in you can never go back, NEVER.
