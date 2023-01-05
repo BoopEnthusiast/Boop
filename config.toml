@@ -5,7 +5,6 @@ title = 'Boop'
 theme = 'the-roots-home'
 author = "Boop"
 paginate = 3
-DefaultContentLanguage = "en"
 enableInlineShortcodes = true
   
 
