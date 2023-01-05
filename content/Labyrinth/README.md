@@ -1,6 +1,6 @@
 ---
 title: "Labyrinth explanation"
-date: 0000-12-13T00:00:00
+date: 2022-1-5T11:23:00
 tags: [No tags]
 ---
 
