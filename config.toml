@@ -1,9 +1,10 @@
 baseURL = '/'
-languageCode = 'en-us'
+languageCode = "en"
+DefaultContentLanguage = "en"
 title = 'Boop'
 theme = 'the-roots-home'
 author = "Boop"
-
+paginate = 3
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
   
@@ -12,7 +13,7 @@ enableInlineShortcodes = true
 #enableGitInfo=true
 enableEmoji= true
 enableRobotsTXT= true
-#test
+
 # Syntax Highlight Options
 pygmentsCodeFencesGuessSyntax = true
 pygmentsCodeFences = true
@@ -20,3 +21,6 @@ pygmentsUseClasses = true
 pygmentsStyle = "vs"
 [pygmentsOptions]
   linenos= true
+
+[markup]
+  defaultMarkdownHandler= "goldmark"
