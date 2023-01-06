@@ -1,5 +1,4 @@
----
-title: you have entered the inescapable labyrinth 
-weight: 2
----
-Is this the problem???
++++
+title = "The Labyrinth"
+weight = 2
++++
