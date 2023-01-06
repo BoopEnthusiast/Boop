@@ -1,4 +1,4 @@
 +++
-title = "The Labyrinth"
-weight = 3
+title = "Labyrinth"
+tags = ["index"]
 +++
